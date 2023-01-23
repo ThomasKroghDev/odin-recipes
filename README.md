@@ -1,1 +1,2 @@
 # odin-recipes
+I am building a recipes website with html and css. The technologies I have used include git, html, css, github and vscode and window's hyper-v for running it on an ubuntu virtual machine.
